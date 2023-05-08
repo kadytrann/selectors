@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Inknut+Antiqua&display=swap');
 
 html{
-    background-color:#ccc;
+    background-color:pink;
 }
 
 body {
@@ -11,6 +11,7 @@ body {
     width:90%;
     margin:auto;
     padding:1%;
+    color:deeppink;
 }
 
 h1.page-header{
@@ -27,7 +28,7 @@ nav{
 }
 
 nav a{
-    color:#000;
+    color:deeppink;
 }
 
 nav ul {
